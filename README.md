@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bowencraft
-- 👀 I’m interested in Game Design
+- 👋 Hi, I’m Bowen @bowencraft
+- 👀 I’m interested in Minecraft dev, Game Design
 - 🌱 I’m currently learning Java, C#
-- 📫 My website: bowen.wang
+- 📫 Visit my website: bowen.wang
 
 <!---
 bowencraft/bowencraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
