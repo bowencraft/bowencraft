@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bowen @bowencraft, NYU 25' CS / Game Design Major.
 - 🌱 I am a game designer and full-stack developer.
-- Currently, I am interested in the intersection of AI and games and am preparing to put more effort into this area.
+- 🔨 Currently, I am interested in the intersection of AI and games and am preparing to put more effort into this area.
 - 📫 Visit my website: bowen.wang
 
 <!---
